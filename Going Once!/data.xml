@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Going Once!</title>
+  <release-date>April 2026</release-date>
+  <website>https://midnightoilgames.github.io/</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name></name>
+      <link></link>
+    </platform>
+  </platforms>
+  <!--
+  <prices>
+    <price>
+      <currency></currency>
+      <value></value>
+    </price>
+  </prices>
+-->
+  <description>Going once! is a capstone game developed in Unity as part of a team project. Players will run an art auction house while inspecting artwork, building relationships with buyers, and running live high stakes auctions through mulitple interactive minigames and a player based economy system. The game focuses on immersive player feedback, intuitive mechanics and dynamic presentation to create an engaging user experience.</description>
+
+  <features>
+    <feature> Use inspection tools to investigate objects designed to reveal material tags, haggle the sellers for better deals. Buy and collect your favourite pieces to gain attraction and potentially run a profitable business.</feature>
+    <feature>Walk around and arrange your showroom gallery to display your collected pieces and attract potential buyers. Learn NPC preferences through dialogue, and prepare for the auction night with your journal of information.</feature>
+    <feature>Sell your art pieces at the auction house and manage your inventory to maximize profits. Watch the auto-bid system in action as you handle quick time events to keep the auction going.</feature>
+    <feature>Analyze your business stats at the end of the day and adjust your strategy accordingly.</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Trailer 1</name>
+      <youtube>KvAkFkM81e0</youtube>
+    </trailer>
+    <trailer>
+      <name>Trailer 2</name>
+      <youtube>-NvU_FxMTnQ</youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      <!-- Steam ID -->
+      <!-- e.g. 424242 -->
+    </steam>
+    <humble>
+      <!-- Humble Bundle product/id -->
+      <!-- e.g. mysupergame/42AAbB42dC -->
+    </humble>
+    <itch>
+      <!-- itch.io ID -->
+      <!-- e.g. 42424 -->
+    </itch>
+    <gamejolt>
+      <!-- Game Jolt package ID -->
+      <!-- e.g. 4AbCd2Ef -->
+    </gamejolt>
+    <bandcamp>
+      <!-- Bandcamp ID -->
+      <!-- e.g. 4242424242 -->
+    </bandcamp>
+  </widgets>
+
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name></name>
+
+      <!-- Pick one: -->
+      <mail></mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>

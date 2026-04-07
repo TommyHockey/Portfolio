@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
-  <title>Thomas Fingust Portfolio</title>
+  <title>Thomas Fingust</title>
   <based-in>Ottawa, Ontario</based-in>
-  <founding-date></founding-date>
+  <founding-date>2026</founding-date>
   <website></website>
   <press-contact>
     <!-- Mail address -->
@@ -10,10 +10,10 @@
   </press-contact>
 
   <!-- Google analytics ID: -->
-  <analytics></analytics>
+  <!-- <analytics></analytics> -->
 
   <phone>613-601-7512</phone>
-  <address>
+   <address>
     <line>
       <!-- Street -->
     </line>
@@ -23,13 +23,19 @@
     <line>
       <!-- Country -->
     </line>
-  </address>
+  </address> 
 
   <socials>
     <social>
-      <name></name>
+      <name>GitHub</name>
       <link>
-        <!-- URL starting with http or https -->
+        https://github.com/TommyHockey
+      </link>
+    </social>
+    <social>
+      <name>LinkedIn</name>
+      <link>
+        https://www.linkedin.com/in/thomas-fingust-746926364/
       </link>
     </social>
   </socials>
@@ -40,19 +46,18 @@
   <history></history>
 
   <!-- Or multiple blocks: -->
-  <!--
+
   <histories>
     <history>
       <header></header>
       <text></text>
     </history>
   </histories>
-  -->
+
 
   <trailers>
     <trailer>
       <name></name>
-
       <!-- Pick one: -->
       <youtube>
         <!-- Video ID only, not the full URL -->
@@ -60,27 +65,27 @@
     </trailer>
   </trailers>
 
-  <awards>
+  <!-- <awards>
     <award>
       <description></description>
       <info></info>
     </award>
-  </awards>
+  </awards> -->
 
-  <quotes>
+  <!-- <quotes>
     <quote>
       <description></description>
       <name></name>
       <website></website>
       <link></link>
     </quote>
-  </quotes>
+  </quotes> -->
 
   <additionals>
     <additional>
-      <title></title>
-      <description></description>
-      <link></link>
+      <title>Currently Looking For</title>
+      <description>Junior Game Developer / Gameplay Programmer roles. Open to remote work.</description>
+      <link>mailto:tfingust00@gmail.com</link>
     </additional>
   </additionals>
 
