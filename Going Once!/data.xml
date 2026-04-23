@@ -26,44 +26,26 @@
   <trailers>
     <trailer>
       <name>Trailer 1</name>
-      <youtube>KvAkFkM81e0</youtube>
+      <youtube>M3yQCacLoKo</youtube>
     </trailer>
     <trailer>
       <name>Trailer 2</name>
+      <youtube>KvAkFkM81e0</youtube>
+    </trailer>
+    <trailer>
+      <name>Trailer 3</name>
       <youtube>-NvU_FxMTnQ</youtube>
     </trailer>
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
-  <widgets>
-    <steam>
-      <!-- Steam ID -->
-      <!-- e.g. 424242 -->
-    </steam>
-    <humble>
-      <!-- Humble Bundle product/id -->
-      <!-- e.g. mysupergame/42AAbB42dC -->
-    </humble>
+  <widgets>  
     <itch>
       <!-- itch.io ID -->
       <!-- e.g. 42424 -->
+      going-once
     </itch>
-    <gamejolt>
-      <!-- Game Jolt package ID -->
-      <!-- e.g. 4AbCd2Ef -->
-    </gamejolt>
-    <bandcamp>
-      <!-- Bandcamp ID -->
-      <!-- e.g. 4242424242 -->
-    </bandcamp>
   </widgets>
-
-  <awards>
-    <award>
-      <description></description>
-      <info></info>
-    </award>
-  </awards>
 
   <quotes>
     <quote>

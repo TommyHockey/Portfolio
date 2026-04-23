@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
-  <title>Dark Room</title>
+  <title>Blackwood</title>
   <release-date>TBD</release-date>
   <website></website>
 
@@ -9,22 +9,27 @@
 
   <platforms>
     <platform>
-      <name></name>
+      <name>Itch.io (windows)</name>
       <link></link>
     </platform>
   </platforms>
 
   <prices>
     <price>
-      <currency></currency>
+      <currency>0$ (Free)</currency>
       <value></value>
     </price>
   </prices>
 
-  <description></description>
-
-  <!-- Choose between a single block: -->
-  <history></history>
+  <description>
+  Blackwood is a short first-person horror game developed in Unity, focusing on atmospheric tension and player-driven exploration.
+  
+  For this project, I focused on recreating responsive 3D movement inspired by recent creepypasta games like "Slender: The Eight Pages" and the "SCP Foundation" series, while.
+  
+  I Implemented core systems including player movement, interaction mechanics, psychological horror elements and enviornmnental design to guide the player without explict instructions.
+  
+  The project emphasizes mood, pacing, and minimalism over traditional indie horror tropes
+  </description>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -37,7 +42,10 @@
   -->
 
   <features>
-    <feature></feature>
+    <feature>Escape a haunted house set deep in the woods, where exploration is key to survival.</feature>
+    <feature>Explore dense forest paths, abadoned structures, and hidden areas as you search for a way out.</feature>
+    <feature>Find and equip yourself with interactive items to possibly aid in your escape.</feature>
+    <feature>Enviormental storytelling, built with sound and lighting that enhances tension.</feature>
   </features>
 
   <trailers>
@@ -60,47 +68,11 @@
       <!-- Steam ID -->
       <!-- e.g. 424242 -->
     </steam>
-    <humble>
-      <!-- Humble Bundle product/id -->
-      <!-- e.g. mysupergame/42AAbB42dC -->
-    </humble>
     <itch>
       <!-- itch.io ID -->
       <!-- e.g. 42424 -->
     </itch>
-    <gamejolt>
-      <!-- Game Jolt package ID -->
-      <!-- e.g. 4AbCd2Ef -->
-    </gamejolt>
-    <bandcamp>
-      <!-- Bandcamp ID -->
-      <!-- e.g. 4242424242 -->
-    </bandcamp>
   </widgets>
-
-  <awards>
-    <award>
-      <description></description>
-      <info></info>
-    </award>
-  </awards>
-
-  <quotes>
-    <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
-    </quote>
-  </quotes>
-
-  <additionals>
-    <additional>
-      <title></title>
-      <description></description>
-      <link></link>
-    </additional>
-  </additionals>
 
   <credits>
     <credit>
